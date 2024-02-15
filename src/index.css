@@ -1,0 +1,28 @@
+.container{
+  text-align: center;
+  font-family: monospace;
+  box-shadow: 5px 5px 5px;
+  border-radius: 10px;
+  background-color: grey;
+}
+
+.counterDisplay{
+  font-size: 10em;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.btn{
+  font-size: 2em;
+  border: none;
+  margin: 10px;
+  border: 2px red solid;
+  border-radius: 10px;
+  padding: 5px;
+  cursor: pointer;
+}
+
+.btn:hover{
+  background-color: grey;
+  color: white;
+}
